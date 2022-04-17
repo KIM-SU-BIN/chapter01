@@ -43,8 +43,8 @@ public class Ex01 {
 		
 		//변수 여러개일 때 변수 + 초기화
 		int var04 = 10;
-		int var05 = 20;
-		int var06 = 30;
+		//int var05 = 20;
+	   //int var06 = 30;
 		
 		System.out.println(var04);
 	}

@@ -1,6 +1,6 @@
 package com.javaex.ex02;
 
-public class Ez01 {
+public class Ex01 {
 	
 	public static void main(String[] args) {
 		int i = 2345;
@@ -17,12 +17,14 @@ public class Ez01 {
 		System.out.println("하세요");
 		
 		System.out.println(str + str + "안녕하세요");
-		System.out.println(str + i);
+		System.out.println(str + i );
 		String var01 = str+i;
 		System.out.println(str + " 랑 " + i); // 공백도 문자로 포함됨!
 		
 		System.out.println(str + d);
 		System.out.println(d + i);
+		System.out.println(d + d);
+		System.out.println(i + d);
 		
 		System.out.println(c);
 		System.out.println(c + c); //숫자로 연산된다
