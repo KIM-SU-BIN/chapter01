@@ -15,7 +15,7 @@ public class Ex03 {
 		nums[5] = (int)(Math.random()*45+1);
 		*/
 		
-		for(int i=0; i<6; i++) {
+		for(int i=0; i<6; i++) { 
 			nums[i] = (int)(Math.random()*45+1);
 		}
 		

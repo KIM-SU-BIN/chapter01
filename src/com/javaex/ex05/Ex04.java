@@ -13,13 +13,13 @@ public class Ex04 {
 			System.out.println(intArray[i]); }
 		
 		
+		//int[] intArray = new int[3]
 		
 		//위에보다 더 줄여서 쓴 것
 		/* int[] intArray = new int[] {3,6,9};
 		
 		for(int i =0; i<intArray.length; i++) {
 			System.out.println(intArray[i]);} */
-		
 		
 		
 		/* for(int i =0; i<intArray.length; i++) {

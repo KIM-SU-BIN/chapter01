@@ -1,3 +1,6 @@
+//기본자료형(실제값) int.float,double,,, 파일 복붙
+//참조자료형(주소값) 파일 바로가기 생성 -> 주소가 기재되어 있기 때문
+
 package com.javaex.ex05;
 
 public class Ex05 {
