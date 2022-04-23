@@ -30,8 +30,6 @@ public class Ex01 {
 		
 		
 		//변수선언 초기화
-		
-		
 		 int var01;
 		 int var02;
 		 int var03;
